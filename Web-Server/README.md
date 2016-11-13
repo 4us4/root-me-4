@@ -16,7 +16,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [√] File upload - MIME type<br>
   [√] HTTP cookies<br>
   [-] Directory traversal<br>
-  [-] File upload - null byte<br>
+  [√] File upload - null byte<br>
   [-] PHP filters<br>
   [-] PHP register globals<br>
   [√] Local File Inclusion<br>
