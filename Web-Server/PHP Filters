@@ -7,7 +7,7 @@ Soal : http://challenge01.root-me.org/web-serveur/ch22/
 Solusi : 
 	Pada soal diminta mendapatkan administrator password
 	
-	Akses url http://challenge01.root-me.org/web-serveur/ch12/?inc=log
+	Akses url http://challenge01.root-me.org/web-serveur/ch12/?inc=login.php
 	
 	ada form login dan kita tidak tau username dan password, kembali lihat soal tantangannya adalah PHP filters
 	
