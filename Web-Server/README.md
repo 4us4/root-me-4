@@ -19,7 +19,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [-] File upload - null byte<br>
   [-] PHP filters<br>
   [-] PHP register globals<br>
-  [-] Local File Inclusion<br>
+  [√] Local File Inclusion<br>
   [-] Local File Inclusion - Double encoding<br>
   [-] PHP type juggling<br>
   [-] Preg_Replace<br>
