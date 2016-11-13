@@ -17,7 +17,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [√] HTTP cookies<br>
   [-] Directory traversal<br>
   [√] File upload - null byte<br>
-  [-] PHP filters<br>
+  [√] PHP filters<br>
   [-] PHP register globals<br>
   [√] Local File Inclusion<br>
   [-] Local File Inclusion - Double encoding<br>
