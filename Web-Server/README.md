@@ -13,7 +13,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [√] Improper redirect<br>
   [√] CRLF<br>
   [√] File upload - double extensions<br>
-  [-] File upload - MIME type<br>
+  [√] File upload - MIME type<br>
   [-] HTTP cookies<br>
   [-] Directory traversal<br>
   [-] File upload - null byte<br>
