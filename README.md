@@ -2,48 +2,48 @@
 ================================================================================================================================
   Web - Server 44 Challenges
 ================================================================================================================================
-  [√] HTML 
-  [√] Weak password 
-  [√] User-agent 
-  [√] Backup file 
-  [√] HTTP directory indexing 
-  [√] HTTP Headers 
-  [√] HTTP verb tampering 
-  [√] Install files 
-  [√] Improper redirect 
-  [√] CRLF 
-  [√] File upload - double extensions 
-  [-] File upload - MIME type 
-  [-] HTTP cookies 
-  [-] Directory traversal 
-  [-] File upload - null byte 
-  [-] PHP filters 
-  [-] PHP register globals 
-  [-] Local File Inclusion 
-  [-] Local File Inclusion - Double encoding 
-  [-] PHP type juggling 
-  [-] Preg_Replace 
-  [-] Remote File Inclusion 
-  [-] Server-side Template Injection 
-  [-] SQL injection - authentication 
-  [-] SQL injection - authentication - GBK 
-  [-] SQL injection - string 
-  [-] LDAP injection - authentication 
-  [-] NoSQL injection - authentication 
-  [-] Path Truncation 
-  [-] PHP Serialization 
-  [-] SQL injection - numeric 
-  [-] SQL Truncation 
-  [-] XML External Entity 
-  [-] XPath injection - authentication 
-  [-] Local File Inclusion - Wrappers 
-  [-] SQL injection - Error 
-  [-] SQL injection - Insert 
-  [-] SQL injection - file reading 
-  [-] XPath injection - string 
-  [-] SQL injection - Time based 
-  [-] SQL injection - blind 
-  [-] LDAP injection - blind 
-  [-] XPath injection - blind 
-  [-] SQL injection - filter bypass
+  [√] HTML<br>
+  [√] Weak password<br> 
+  [√] User-agent<br> 
+  [√] Backup file<br> 
+  [√] HTTP directory indexing<br> 
+  [√] HTTP Headers<br> 
+  [√] HTTP verb tampering<br> 
+  [√] Install files<br> 
+  [√] Improper redirect<br> 
+  [√] CRLF<br> 
+  [√] File upload - double extensions<br> 
+  [-] File upload - MIME type<br> 
+  [-] HTTP cookies<br> 
+  [-] Directory traversal<br> 
+  [-] File upload - null byte<br> 
+  [-] PHP filters<br> 
+  [-] PHP register globals<br> 
+  [-] Local File Inclusion<br> 
+  [-] Local File Inclusion - Double encoding<br> 
+  [-] PHP type juggling<br> 
+  [-] Preg_Replace<br> 
+  [-] Remote File Inclusion<br> 
+  [-] Server-side Template Injection<br> 
+  [-] SQL injection - authentication<br> 
+  [-] SQL injection - authentication - GBK<br> 
+  [-] SQL injection - string<br> 
+  [-] LDAP injection - authentication<br> 
+  [-] NoSQL injection - authentication<br> 
+  [-] Path Truncation<br> 
+  [-] PHP Serialization<br> 
+  [-] SQL injection - numeric<br> 
+  [-] SQL Truncation<br> 
+  [-] XML External Entity<br> 
+  [-] XPath injection - authentication<br> 
+  [-] Local File Inclusion - Wrappers<br> 
+  [-] SQL injection - Error<br> 
+  [-] SQL injection - Insert<br> 
+  [-] SQL injection - file reading<br> 
+  [-] XPath injection - string<br> 
+  [-] SQL injection - Time based<br> 
+  [-] SQL injection - blind<br> 
+  [-] LDAP injection - blind<br> 
+  [-] XPath injection - blind<br> 
+  [-] SQL injection - filter bypass<br>
 
