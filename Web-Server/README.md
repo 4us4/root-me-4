@@ -22,10 +22,10 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [√] Local File Inclusion<br>
   [√] Local File Inclusion - Double encoding<br>
   [√] PHP type juggling<br>
-  [-] Preg_Replace<br>
+  [√] Preg_Replace<br>
   [√] Remote File Inclusion<br>
   [√] Server-side Template Injection<br>
-  [-] SQL injection - authentication<br>
+  [√] SQL injection - authentication<br>
   [-] SQL injection - authentication - GBK<br>
   [-] SQL injection - string<br>
   [√] LDAP injection - authentication<br>
