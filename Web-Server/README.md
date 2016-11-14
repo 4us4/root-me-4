@@ -41,7 +41,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [-] SQL injection - Insert<br>
   [√] SQL injection - file reading<br>
   [-] XPath injection - string<br>
-  [-] SQL injection - Time based<br>
+  [√] SQL injection - Time based<br>
   [-] SQL injection - blind<br>
   [-] LDAP injection - blind<br>
   [-] XPath injection - blind<br>
