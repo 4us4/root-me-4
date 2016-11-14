@@ -28,7 +28,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [-] SQL injection - authentication<br>
   [-] SQL injection - authentication - GBK<br>
   [-] SQL injection - string<br>
-  [-] LDAP injection - authentication<br>
+  [√] LDAP injection - authentication<br>
   [-] NoSQL injection - authentication<br>
   [-] Path Truncation<br>
   [-] PHP Serialization<br>
