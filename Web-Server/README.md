@@ -15,7 +15,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [√] File upload - double extensions<br>
   [√] File upload - MIME type<br>
   [√] HTTP cookies<br>
-  [-] Directory traversal<br>
+  [√] Directory traversal<br>
   [√] File upload - null byte<br>
   [√] PHP filters<br>
   [√] PHP register globals<br>
@@ -27,7 +27,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [√] Server-side Template Injection<br>
   [√] SQL injection - authentication<br>
   [-] SQL injection - authentication - GBK<br>
-  [-] SQL injection - string<br>
+  [√] SQL injection - string<br>
   [√] LDAP injection - authentication<br>
   [-] NoSQL injection - authentication<br>
   [-] Path Truncation<br>
@@ -39,7 +39,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [-] Local File Inclusion - Wrappers<br>
   [√] SQL injection - Error<br>
   [-] SQL injection - Insert<br>
-  [-] SQL injection - file reading<br>
+  [√] SQL injection - file reading<br>
   [-] XPath injection - string<br>
   [-] SQL injection - Time based<br>
   [-] SQL injection - blind<br>
