@@ -37,7 +37,7 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [-] XML External Entity<br>
   [-] XPath injection - authentication<br>
   [-] Local File Inclusion - Wrappers<br>
-  [-] SQL injection - Error<br>
+  [√] SQL injection - Error<br>
   [-] SQL injection - Insert<br>
   [-] SQL injection - file reading<br>
   [-] XPath injection - string<br>
