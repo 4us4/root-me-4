@@ -25,10 +25,13 @@ Basic query LDAP authentication kalau tak salah ingat seharusnya
 result = (&(user = <value>)(pass = <value>))
 
 maka pemanggilannya dengan menggunakan tanda *
-
+==============================================
 username = *
 password = *)(&
-
+==============================================
+username: *)(|(userPassword=
+password: *)
+==============================================
 voila ~
 Welcome back ch25
 
