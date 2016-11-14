@@ -18,10 +18,10 @@ https://www.root-me.org/en/Challenges/Web-Server/
   [-] Directory traversal<br>
   [√] File upload - null byte<br>
   [√] PHP filters<br>
-  [-] PHP register globals<br>
+  [√] PHP register globals<br>
   [√] Local File Inclusion<br>
-  [-] Local File Inclusion - Double encoding<br>
-  [-] PHP type juggling<br>
+  [√] Local File Inclusion - Double encoding<br>
+  [√] PHP type juggling<br>
   [-] Preg_Replace<br>
   [-] Remote File Inclusion<br>
   [-] Server-side Template Injection<br>
